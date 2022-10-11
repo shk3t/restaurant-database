@@ -1,3 +1,20 @@
+TRUNCATE TABLE
+    dish_ingredient,
+    raw_material,
+    supply,
+    dish,
+    cook,
+    order_item,
+    ingredient,
+    recipe,
+    menu_item,
+    order_,
+    waiter,
+    visitor,
+    reservation,
+    table_;
+
+
 INSERT INTO table_(id, location, persons)
 VALUES
     (1, 'wall', 2),
