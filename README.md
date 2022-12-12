@@ -1,4 +1,4 @@
-# Restoraunt database
+# Restaurant database
 Project was created to improve the skills of creating SQL scripts 
 
 ## Scripts
